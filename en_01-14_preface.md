@@ -1,5 +1,4 @@
 ***
-
 01
 # PREFACE
 
@@ -12,13 +11,13 @@ See chapter 1
 
 In Book 1, I tried to rearrange our definition of architectural order in such a way that it forms a basis for a new view of living structure in buildings and landscapes, escaping from the mechanistic dilemma<!-- 1 -->.
 
-Book 1 invited us to see the world around us-buildings, plants, a painting, our own faces and hands – as field-like structures with centers arranged in a systematic fashion and interacting within the whole. When a structure is living we will feel the echo of our own aliveness in response to it<!-- 2 -->. Book 2 takes the necessary next step of investigating the process of how living structure creates itself over time. A child becomes an adult without ever losing uniqueness or completeness. An acorn transforms smoothly into an oak, although the start and endpoint are radically different. A good building or city will unfold according to the living processes that generate living structure. What I describe throughout Book 2 is a comparably new view of architectural process, with a focus on architectural processes that are capable of generating living structure. It is my hope that a world of architecture, more suitable for human life, will emerge from this new view of living process and of what process is.
+Book 1 invited us to see the world around us-buildings, plants, a painting, our own faces and hands – as field-like structures with centers arranged in a systematic fashion and interacting within the whole. When a structure is living we will feel the echo of our own aliveness in response to it<!-- 2 -->. Book 2 takes the necessary next step of investigating the process of how living structure creates itself over time. A child becomes an adult without ever losing uniqueness or completeness. An acorn transforms smoothly into an oak, although the start and endpoint are radically different. A good building or city will unfold according to the living processes that generate living structure. What I describe throughout Book 2 is a comparably new view of architectural process, with a focus on architectural processes that are capable of generating living structure. It is my hope that a world of architecture, more suitable for human life, will emerge from this new view of living process and of what process _is_.
 
 Book 2 invites us to reconsider the role and importance of process and how it is living or not. It is about the fact that order cannot be understood sufficiently well in purely static terms because there is something _essentially_ dynamic about order. Living structure can be attained in practice, and will become fully comprehensible and reachable, only from a dynamic understanding. Indeed _the nature of order is interwoven in its fundamental character with the nature of the processes which create the order._
 
 When we look at order dynamically, the concept of living structure _itself_ undergoes some change. Book 1 focused on the idea of living structure, and the viewpoint was geometric, static. In Book 2, I start with a second concept, based on the idea of an _unfolded_ structure. The point of view — even for the structure itself — is dynamic.  
 
-The two conceptions of structure turn out to be complementary. In the end we shall see that living structure and unfolded structure are equivalent. All living structure is _unfolded_ and all unfolded structure is living. And I believe the concept of an unfolded structure is as important, and should play as essential a role in architecture, as the concept of living structure. Thus we shall end up with two equivalent views – one static, one dynamic – of the same idea.
+The two conceptions of structure turn out to be complementary. In the end we shall see that living structure and unfolded structure are equivalent. All living structure is _unfolded_ and all unfolded structure is living. And I believe the concept of an unfolded structure is as important, and should play as essential a role in architecture, as the concept of _living_ structure. Thus we shall end up with two equivalent views – one static, one dynamic – of the same idea.
 
 ## 2/ THE NECESSARY ROLE OF PROCESS
 
@@ -153,11 +152,11 @@ Why is this process-view essential? Because the ideals of “design,” the corp
 
 In all this, _process_ is still not present as something essential, only as something mechanical <!-- 11 -->. In our profession of architecture there is no conception, yet, of process _itself_ as a budding, as a flowering, as an unpredictable, unquenchable unfolding through which the future grows from the present in a way that is dominated by the goodness of the moment.
 
-### 6/ POSSIBILITY OF A NEW VIEW OF ARCHITECTURAL PROCESS
+## 6/ POSSIBILITY OF A NEW VIEW OF ARCHITECTURAL PROCESS
 
 I shall argue that every good process in architecture, and in city planning also, treats the world as a whole and allows every action, every process, to appear as an unfolding of that whole. When living structure is created, what is to be built is made consistent with the whole, it comes from the whole, it nourishes and protects the whole.
 
-We may get some inkling of this kind of thing by considering what it means to _design_ a building, and to compare it with what it means to _make_ a building. Naively, I make a building if I actually do it myself, do it with my own hands. This sounds like fun. But of course that is impossible for all but the very smallest buildings. More deeply, what it means for me to _make_ a building is that I am totally responsible for it. I am actually responsible for its structure, its materials, its functioning, its safety, its cost, its beauty, everything. This is in marked contrast with the present idea of architecture, where as an architect I am definitely not responsible for everything. I am only responsible for my particular part in the process, for my set of drawings, which will then function, within the system, in a strictly limited fashion that is shut off from the whole.
+We may get some thinkling of this kind of thing by considering what it means to _design_ a building, and to compare it with what it means to _make_ a building. Naively, I make a building if I actually do it myself, do it with my own hands. This sounds like fun. But of course that is impossible for all but the very smallest buildings. More deeply, what it means for me to _make_ a building is that I am totally responsible for it. I am actually responsible for its structure, its materials, its functioning, its safety, its cost, its beauty, everything. This is in marked contrast with the present idea of architecture, where as an architect I am definitely _not_ responsible for everything. I am only responsible for my particular part in the process, for my set of drawings, which will then function, within the system, in a strictly limited fashion that is shut off from the whole.
 ***
 13  
 I have limited responsibility. Like a bureaucrat, I play my role, but “don’t ask me to be responsible for anything-I am just doing my job.”
