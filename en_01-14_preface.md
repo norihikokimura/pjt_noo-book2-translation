@@ -24,7 +24,7 @@ The two conceptions of structure turn out to be complementary. In the end we sha
 
 The task of architecture may be simply stated. We seek to make a living architecture: that means an architecture in which every part, every building, every street, every garden, is alive. It has tens of thousands of living centers in it. It has rooms, gardens, windows, each with their own life. It has stairs, passages, entrances, terraces, columns, column capitals, arches. In a living environment, each of these individual places is a living center in its own right. The window is a glorious living center with light, comfort, view, and so on. The window sill is a living center, with shape, seat, a place for a vase of flowers. Even the smallest part of the most insignificant room, a forgotten corner, has the quality of a living center.
 ***
-03
+03  
 Even the smallest part of the physical structure, a brick, the mortar between two bricks, the joint of one piece of wood with another, also has this living character <!-- 3 -->.
 
 What process can accomplish the subtle and beautiful adaptation of the parts that will create a living architecture? In a certain sense, the answer is simple. We have to make — or generate — the ten thousand living centers in the building, one by one. That is the core fact. And the ten thousand centers, to be living centers, must be beautifully adapted to one another within the whole: each must fit the others, each must contribute to the others, and the ten thousand centers then — if they are truly living — must form a coherent and harmonious whole.  
@@ -39,7 +39,7 @@ Many of the processes used today, sadly, are nearly _bound_ to fail. We see the 
 
 In many sciences, it has become commonplace to consider process as an inescapable part of order. In physics, for example, forces themselves are now seen as processes, and the structure we observe in the world of atoms and electrons is known to come about as a result of the continuous play of subatomic processes defined by quantum mechanics <!-- 5 -->. In biology, the structure of an organism is understood to be inseparable from the process which creates and maintains it: an animal, at any instant, is the ongoing result of certain genetically controlled processes which create the organism to begin with, and which continue to create that organism throughout its life. A cloud is a transitory by-product of the condensation of water in the atmosphere. The waves of the ocean are the flowing product of the process of interaction between wind and water.
 ***
-04
+04  
 The sand ripples in the Sahara are the product of the process by which the wind takes sand, picks it up, and drops it. The mountain is the temporary product of the folding and heaving of the earth. The flower is the temporary product of the unfolding of the bud and seed pod under the driving influence of DNA. In each case, the whole system of order we observe is only an instantaneous cross section, in time, of a continuous and ongoing process of flux and change.
 
 These insights originated 2,500 years ago with Heraclitus and his assertion that we can never step into the same river twice. But arriving at this understanding in modern science has been a difficult affair. D'Arcy Wentworth Thompson, describing the origins of biological form in 1917 as a necessary result of biological growth, had to struggle intellectually, showing again and again by example that biological form could only be understood as a product of the growth process<!-- 6 -->.
@@ -62,7 +62,7 @@ From something nearly destroyed, beautiful patches of land are formed. He clears
 
 When he is done, each meadow has a different character. Each is ordinary, but a jewel, an individual jewel.The fabric of the jewel-like living meadows all together, if he succeeds, will cover the ridge of the Berkeley hills.
 ***
-05
+05  
 >Meadow in the Berkeley hills, mown and taken care of by Bill McClung, 1996
 
 When I ask him what makes him keep doing it, he answers, “The knowledge that I am making life: that something living is being enhanced. That keeps us inspired. It makes it worthwhile. It is a tremendous thing.”
@@ -77,7 +77,7 @@ On the other hand, processes which work against the existing life of a place, wh
 
 Once we recognize the possibility that some centers will be helpful to the life of an existing wholeness, while others will be antagonistic to it, we then begin to recognize the possibility of a highly complex kind of self-consistency in any given wholeness.
 ***
-06
+06  
 >A 15th-century Hispano-Moresque tile, made by the cuerda seca technique, the use of rope to form the lines
 
 The various centers within a wholeness may be in harmony with one another in different degrees, or at odds with one another in different degrees. And this is where the degree of life, or degree of value, in any given thing comes from.  
@@ -92,7 +92,7 @@ Look at this Hispano-Moresque tile of the 15th century. When we first look at it
 
 But when I handled this tile, looked at its surface, held its weight, looked at the glaze, and started to ask myself how I would make a tile like this, the thing took on quite a different character. I saw that the particular lines of the design are formed by raised ridges in the clay. The separate colors of the different glazes are kept separate by these ridges, so that the liquid glaze, at the temperature of the kiln, cannot “run.” As I thought more about how to do it— if I were actually making such a tile–I began to see that the sharp, almost hard design, the brilliant separation of glazes which makes the colors beautiful, and even the design itself, the character of straightness, curvature, and the formal quality of the line, are all by-products of a particular kind of process which must be used to make such a tile.
 ***
-07
+07  
 >San-ju-san Gen Do, temple of the thirty-three bays, Kyoto, 13th century. Here, too, the beauty of this building, the wonderful harmony of its construction, arise as value that appears in the process of craft, from a gently unfolding wholeness. The unfolding of the woodwork is so complex, and yet so pure, that it reaches great spiritual depths.
 
 I believe the design was made by laying thick rope into the soft clay. It is the _rope_ which allowed the maker form such complex shapes, with perfect parallel lines, and perfect half-round troughs. In my studio my assistant went further to understand how it had been done, and made a clay impression of the tile's surface in reverse. This reverse –– a raised embossed impression taken in modeling clay –– was even more impressive, and more beautiful than the tile itself. I realized that this — the negative impression — must have been the actual thing which the maker made, and that the tile was then cast from it in clay.
@@ -102,7 +102,7 @@ The further I went to understand the actual process which had been used to make 
 >Interior, San-ju-san Gen Do, Kyoto. The interior is empty, except for one thousand golden Buddhas, carved, carefully placed, and revered.
 
 ***
-08
+08  
 It was almost a residue from the all-important process. The design is indeed beautiful, yes. But it can only be made as beautiful as it is within the technique, or process, used to make it. And once one uses this technique, the design — what appears as the sophisticated beauty of the design — follows almost without thinking, just as a result of following the process.
 
 If you do not use this technique — process — you cannot create a tile of this design. An attempt to follow the same drawing, but with different techniques, will fall flat on its face. And if I change the technique (process), then the design must change, too. This design follows almost without effort from this _technique_. It is the process, not the design, that is doing all the hard work, and which is even paving the way for the design.  
@@ -117,7 +117,7 @@ During the 20th century, we became used to something very different.
 
 Consider the “normal” building process we have become used to in recent decades. A client specifies a program in which building areas are mechanically set out as requirements. In the case of a large building, this program is then made more precise (and often more rigid) by a professional programmer who sets it forth arithmetically in a table of square footages. An architect designs the building at a drawing table and is held to the program, rigidly, not to the evolving whole. The drawings are then checked by an engineer who is separate from the process and responsible for making the building stand up. A soils engineer very possibly works out the foundation, separately again. The final engineering drawings are then checked by a building inspector and by a zoning officer — again a separate process. In many cases, the zoning officer who checks them has not been to the site. Even if the officer has done a site visit, he or she has little or no authority to create any coherent relation between the building and the site, in relation to the site's special conditions. Once the drawings are approved, they are sent out to bid, by a contractor who has not been part of the design process, looks only at the drawings, but shares none of the vision. The drawings are also checked by a bank. The individual parts of the drawings may be sent out to bid by subcontractors, who are even more remote from the task at hand. Many of the objects, components, which will be used in the construction of the building are factory-made.
 ***
-09
+09  
 They have been designed and constructed with no knowledge of the building at all; they are mentally and factually separate from its existence, but are brought into play only by a process of assembly.
 
 During the building process, corrections cannot be made without huge expense to the client. Thus the assembly process is insensitive to almost any new wholeness which appears during construction. The landscape work is done by a separate architect, who specializes in plants. The actual gardening — that is, the preparation of the ground, planting of trees, flowers — is done by yet another person acting under orders, and once again contractually removed from the human feeling, light, and action of the building.
@@ -136,15 +136,15 @@ Real kindness is something quite different, something valuable in _itself_. It i
 
 Like the mechanical 20th-century view of kindness, the 20th-century mainstream view of building was goal-oriented and mechanistic, aimed mainly at end-results, not on the inner good of processes.
 ***
-10
+10  
 >Our mechanized process: a building designed and made by a process which is mechanical
 
 ***
-11
+11  
 >Our mechanized process: a building planned and designed and made by a process which is not only mechanical technically, but which is also mechanical in human terms, bureaucratic and corporate
 
 ***
-12
+12  
 Building was viewed as a necessary way to achieve a certain end-result. The design drawn by the architect — the master plan drawn by the planner — was the purpose, these were the goals of the art. The process of getting to the goal was thought to be of little importance in itself, except insofar as it attained (or failed to attain) the desired goal.
 
 The mechanistic view of architecture we have learned to accept in our era is crippled by this overly-simple, goal-oriented approach. In the mechanistic view of architecture we think mainly of _design_ as the desired end-state of a building, and far too little of the _way_ or _process_ of making a building as something inherently beautiful in itself. But, most important of all, the background underpinning of this goal-oriented view — a static world almost without process — just is not a truthful picture. As a conception of the world, it roundly fails to describe things as they are. It exerts a crippling effect on our view of architecture and planning because it fails to be true to ordinary, everyday fact. For in fact, everything is constantly changing, growing, evolving. The human body is changing. Trees bear leaves, and the leaves fall. The road cracks. People's lives change from week to week. The building moves with wind and rain and movement of the earth. Buildings and streets and gardens are modified constantly while they are inhabited, sometimes improved, sometimes destroyed. Towns are created as a cooperative flow caused by hundreds, even millions, of people over time.
@@ -159,7 +159,7 @@ I shall argue that every good process in architecture, and in city planning also
 
 We may get some inkling of this kind of thing by considering what it means to _design_ a building, and to compare it with what it means to _make_ a building. Naively, I make a building if I actually do it myself, do it with my own hands. This sounds like fun. But of course that is impossible for all but the very smallest buildings. More deeply, what it means for me to _make_ a building is that I am totally responsible for it. I am actually responsible for its structure, its materials, its functioning, its safety, its cost, its beauty, everything. This is in marked contrast with the present idea of architecture, where as an architect I am definitely not responsible for everything. I am only responsible for my particular part in the process, for my set of drawings, which will then function, within the system, in a strictly limited fashion that is shut off from the whole.
 ***
-13
+13  
 I have limited responsibility. Like a bureaucrat, I play my role, but “don’t ask me to be responsible for anything-I am just doing my job.”
 
 When I _make_ something, on the other hand, I am deeply involved with it and responsible for it. And not only I. Whether I am head of some project, or a person making some small part of it, the feeling of total responsibility is on my shoulders. In a good process, each person working on the building is — and feels — responsible for everything. For design, schedule, structure, flowers, feeling-everything.
@@ -182,7 +182,7 @@ However, since the distinction between living process and non-living process has
 
 In this book I make an effort, perhaps for the first time, to make this distinction and to lay a basis for a theory — and for a form of daily practice — which allows for a world in which living process, hence living structure, dominates the world and its creation.
 ***
-14
+14  
 #### NOTES
 1. Wholeness, defined structurally, is the interlocking, nested, overlapping system of centers that exists in every part of space. For definitions, see Book I, chapter 3, and Book I, appendix 2.
 2. For a precise definition and analysis of living structure in buildings, see Book I, throughout, and especially chapters 1, 2, 4, 5, 8 and II.  
